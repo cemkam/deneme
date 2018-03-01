@@ -1,1 +1,3 @@
-# deneme
+blgm412 deneme
+gruplar
+dosyalar
